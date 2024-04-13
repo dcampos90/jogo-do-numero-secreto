@@ -1,1 +1,1 @@
-# jogo-do-numero-secreto
+# Curso de Lógica de programação: explore funções e listas
